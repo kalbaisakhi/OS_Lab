@@ -1,0 +1,70 @@
+**** FCFS Scheduling ****
+3804 : Process 2 exits. Turnaround time = 3713 (572%), Wait time = 0
+6884 : Process 1 exits. Turnaround time = 6884 (879%), Wait time = 0
+11822 : Process 8 exits. Turnaround time = 10139 (1609%), Wait time = 0
+11830 : Process 13 exits. Turnaround time = 8946 (2160%), Wait time = 0
+12037 : Process 7 exits. Turnaround time = 10690 (1672%), Wait time = 0
+12752 : Process 5 exits. Turnaround time = 11774 (734%), Wait time = 0
+14518 : Process 3 exits. Turnaround time = 14025 (1365%), Wait time = 0
+15068 : Process 9 exits. Turnaround time = 13294 (2100%), Wait time = 0
+15073 : Process 17 exits. Turnaround time = 11349 (1913%), Wait time = 0
+15482 : Process 4 exits. Turnaround time = 14686 (1497%), Wait time = 0
+16042 : Process 10 exits. Turnaround time = 13870 (1610%), Wait time = 0
+17780 : Process 16 exits. Turnaround time = 14193 (1741%), Wait time = 0
+17787 : Process 19 exits. Turnaround time = 13829 (1503%), Wait time = 0
+17788 : Process 6 exits. Turnaround time = 16672 (1368%), Wait time = 0
+18360 : Process 11 exits. Turnaround time = 16111 (1582%), Wait time = 0
+18558 : Process 12 exits. Turnaround time = 15884 (1507%), Wait time = 0
+18902 : Process 20 exits. Turnaround time = 14567 (738%), Wait time = 0
+18915 : Process 14 exits. Turnaround time = 15917 (1465%), Wait time = 0
+18930 : Process 18 exits. Turnaround time = 15169 (1439%), Wait time = 0
+19115 : Process 15 exits. Turnaround time = 15893 (1761%), Wait time = 0
+Average wait time = 0.00
+Total turnaround time = 19115
+CPU idle time = 7
+CPU utilization = 99.96%
+
+**** RR Scheduling with q = 10 ****
+0 : Process 1 exits. Turnaround time = 0 (0%), Wait time = 0
+91 : Process 2 exits. Turnaround time = 0 (0%), Wait time = 0
+493 : Process 3 exits. Turnaround time = 0 (0%), Wait time = 0
+796 : Process 4 exits. Turnaround time = 0 (0%), Wait time = 0
+978 : Process 5 exits. Turnaround time = 0 (0%), Wait time = 0
+1116 : Process 6 exits. Turnaround time = 0 (0%), Wait time = 0
+1347 : Process 7 exits. Turnaround time = 0 (0%), Wait time = 0
+1683 : Process 8 exits. Turnaround time = 0 (0%), Wait time = 0
+1774 : Process 9 exits. Turnaround time = 0 (0%), Wait time = 0
+2172 : Process 10 exits. Turnaround time = 0 (0%), Wait time = 0
+2249 : Process 11 exits. Turnaround time = 0 (0%), Wait time = 0
+2674 : Process 12 exits. Turnaround time = 0 (0%), Wait time = 0
+2884 : Process 13 exits. Turnaround time = 0 (0%), Wait time = 0
+2998 : Process 14 exits. Turnaround time = 0 (0%), Wait time = 0
+3222 : Process 15 exits. Turnaround time = 0 (0%), Wait time = 0
+3587 : Process 16 exits. Turnaround time = 0 (0%), Wait time = 0
+3724 : Process 17 exits. Turnaround time = 0 (0%), Wait time = 0
+3761 : Process 18 exits. Turnaround time = 0 (0%), Wait time = 0
+3958 : Process 19 exits. Turnaround time = 0 (0%), Wait time = 0
+4335 : Process 20 exits. Turnaround time = 0 (0%), Wait time = 0
+Average wait time = 0.00
+Total turnaround time = 4335
+CPU idle time = 20
+CPU utilization = 99.54%
+
+**** RR Scheduling with q = 5 ****
+0 : Process 1 exits. Turnaround time = 0 (0%), Wait time = 0
+91 : Process 2 exits. Turnaround time = 0 (0%), Wait time = 0
+493 : Process 3 exits. Turnaround time = 0 (0%), Wait time = 0
+796 : Process 4 exits. Turnaround time = 0 (0%), Wait time = 0
+978 : Process 5 exits. Turnaround time = 0 (0%), Wait time = 0
+1351 : Process 7 exits. Turnaround time = 4 (0%), Wait time = 0
+1686 : Process 8 exits. Turnaround time = 3 (0%), Wait time = 0
+1776 : Process 9 exits. Turnaround time = 2 (0%), Wait time = 0
+2176 : Process 10 exits. Turnaround time = 4 (0%), Wait time = 0
+2251 : Process 11 exits. Turnaround time = 2 (0%), Wait time = 0
+2676 : Process 12 exits. Turnaround time = 2 (0%), Wait time = 0
+2886 : Process 13 exits. Turnaround time = 2 (0%), Wait time = 0
+3001 : Process 14 exits. Turnaround time = 3 (0%), Wait time = 0
+3596 : Process 16 exits. Turnaround time = 9 (1%), Wait time = 0
+3731 : Process 17 exits. Turnaround time = 7 (1%), Wait time = 0
+3771 : Process 18 exits. Turnaround time = 10 (0%), Wait time = 0
+3966 : Process 19 exits. Turnaround time = 8 (0%), 
